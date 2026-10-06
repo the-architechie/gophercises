@@ -5,15 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e73a80ee-e41f-414b-b822-ab08b4d22ce5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../02-url-shortener/config.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../02-url-shortener/error.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../02-url-shortener/examples/paths.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../02-url-shortener/examples/paths.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../02-url-shortener/handler.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../02-url-shortener/json.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../02-url-shortener/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../02-url-shortener/parser.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../02-url-shortener/yaml.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-url-shortener/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-url-shortener/.idea/02-url-shortener.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-url-shortener/.idea/go.imports.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-url-shortener/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-url-shortener/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-url-shortener/.idea/vcs.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
